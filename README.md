@@ -15,3 +15,6 @@ Aplikasi To-Do List yang memungkinkan pengguna untuk menambah, menghapus, mencar
 2. Jalankan aplikasi dengan perintah:
    ```bash
    python todolist.py
+
+> Minimal kasi star⭐
+> @Raihan_official0307
