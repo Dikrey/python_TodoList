@@ -3,6 +3,7 @@ import datetime
 
 # ------------------------
 # Created By: Raihan_official0307
+# Github: Dikrey
 # Jangan Dihapus!!! 
 # Hargai Pembuatnya!!! 
 # ------------------------
@@ -98,7 +99,12 @@ class TodoList:
                 found = True
         if not found:
             print("[INFO] Tidak ada tugas pada tanggal tersebut.")
-
+# ------------------------
+# Created By: Raihan_official0307
+# Github: Dikrey
+# Jangan Dihapus!!! 
+# Hargai Pembuatnya!!! 
+# ------------------------
 def show_menu():
     print("\n--- To-Do List ---")
     print("1. Lihat Daftar Tugas")
@@ -122,7 +128,12 @@ def main():
     show_created_by()  # Menampilkan informasi pembuat ketika program dimulai
     
     todo_list = TodoList()
-    
+    # ------------------------
+# Created By: Raihan_official0307
+# Github: Dikrey
+# Jangan Dihapus!!! 
+# Hargai Pembuatnya!!! 
+# ------------------------
     while True:
         show_menu()
         choice = input("Pilih opsi (1-6): ")
@@ -170,3 +181,9 @@ def main():
 
 if __name__ == "__main__":
     main()
+# ------------------------
+# Created By: Raihan_official0307
+# Github: Dikrey
+# Jangan Dihapus!!! 
+# Hargai Pembuatnya!!! 
+# ------------------------
