@@ -21,19 +21,19 @@ Aplikasi To-Do List yang memungkinkan pengguna untuk menambah, menghapus, mencar
    python todolist.py
 
 # ------------------------
-# Created By: Raihan_official0307
-# Github: Dikrey
-# Jangan Dihapus!!! 
-# Hargai Pembuatnya!!! 
+ Created By: Raihan_official0307
+ Github: Dikrey
+ Jangan Dihapus!!! 
+ Hargai Pembuatnya!!! 
 # ------------------------
-# Script ini adalah aplikasi To-Do List sederhana dengan fitur-fitur:
-# - Menambahkan tugas
-# - Menampilkan tugas
-# - Menghapus tugas
-# - Menyimpan tugas ke file
-# - Pencarian tugas
-# - Melihat tugas berdasarkan tanggal
-# - Mengatur prioritas tugas
+ Script ini adalah aplikasi To-Do List sederhana dengan fitur-fitur:
+ - Menambahkan tugas
+ - Menampilkan tugas
+ - Menghapus tugas
+ - Menyimpan tugas ke file
+ - Pencarian tugas
+ - Melihat tugas berdasarkan tanggal
+ - Mengatur prioritas tugas
 # ------------------------
 
 > Minimal kasi star⭐
