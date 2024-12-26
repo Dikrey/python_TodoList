@@ -39,5 +39,5 @@ Aplikasi To-Do List yang memungkinkan pengguna untuk menambah, menghapus, mencar
  - Mengatur prioritas tugas
 # --------------------
 
-> Minimal kasi star⭐
+> Minimal kasih star⭐
 > @Raihan_official0307
