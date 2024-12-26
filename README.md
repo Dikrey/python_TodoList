@@ -1,5 +1,6 @@
 # python_TodoList
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+   
 ## Deskripsi
 Aplikasi To-Do List yang memungkinkan pengguna untuk menambah, menghapus, mencari, dan melihat tugas berdasarkan tanggal. Tugas dilengkapi dengan prioritas dan disimpan dalam file.
 
