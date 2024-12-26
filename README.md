@@ -15,9 +15,9 @@ Aplikasi To-Do List yang memungkinkan pengguna untuk menambah, menghapus, mencar
 2. Jalankan aplikasi dengan perintah:
    ```bash
    git clone https://github.com/Dikrey/python_TodoList
-   ```bash
-   cd 
-   ```bash
+   
+   cd python_TodoList
+   
    python todolist.py
 
 > Minimal kasi star⭐
