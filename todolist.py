@@ -29,7 +29,21 @@ class TodoList:
     def __init__(self, filename="todo.txt"):
         self.filename = filename
         self.tasks = self.load_tasks()
-
+# ------------------------
+# Created By: Raihan_official0307
+# Github: Dikrey
+# Jangan Dihapus!!! 
+# Hargai Pembuatnya!!! 
+# ------------------------
+# Script ini adalah aplikasi To-Do List sederhana dengan fitur-fitur:
+# - Menambahkan tugas
+# - Menampilkan tugas
+# - Menghapus tugas
+# - Menyimpan tugas ke file
+# - Pencarian tugas
+# - Melihat tugas berdasarkan tanggal
+# - Mengatur prioritas tugas
+# ------------------------
     def load_tasks(self):
         tasks = []
         if os.path.exists(self.filename):
@@ -45,7 +59,21 @@ class TodoList:
                             "priority": task_details[3]
                         })
         return tasks
-
+# ------------------------
+# Created By: Raihan_official0307
+# Github: Dikrey
+# Jangan Dihapus!!! 
+# Hargai Pembuatnya!!! 
+# ------------------------
+# Script ini adalah aplikasi To-Do List sederhana dengan fitur-fitur:
+# - Menambahkan tugas
+# - Menampilkan tugas
+# - Menghapus tugas
+# - Menyimpan tugas ke file
+# - Pencarian tugas
+# - Melihat tugas berdasarkan tanggal
+# - Mengatur prioritas tugas
+# ------------------------
     def save_tasks(self):
         with open(self.filename, "w") as file:
             for task in self.tasks:
@@ -75,7 +103,21 @@ class TodoList:
             print(f"[INFO] Tugas '{removed_task['task']}' telah dihapus.")
         except IndexError:
             print("[ERROR] Indeks tugas tidak valid.")
-
+# ------------------------
+# Created By: Raihan_official0307
+# Github: Dikrey
+# Jangan Dihapus!!! 
+# Hargai Pembuatnya!!! 
+# ------------------------
+# Script ini adalah aplikasi To-Do List sederhana dengan fitur-fitur:
+# - Menambahkan tugas
+# - Menampilkan tugas
+# - Menghapus tugas
+# - Menyimpan tugas ke file
+# - Pencarian tugas
+# - Melihat tugas berdasarkan tanggal
+# - Mengatur prioritas tugas
+# ------------------------
     def search_task(self, keyword):
         print("\n[Hasil Pencarian]:")
         print(f"{'No':<5} {'Tugas':<30} {'Tanggal':<15} {'Dibuat Pada':<20} {'Prioritas':<10}")
