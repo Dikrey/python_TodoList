@@ -23,11 +23,9 @@ Aplikasi To-Do List yang memungkinkan pengguna untuk menambah, menghapus, mencar
 
 # ---------------------
  Created By: Raihan_official0307
+
  Github: Dikrey
- 
- Jangan Dihapus!!!
- 
- Hargai Pembuatnya!!! 
+
 # --------------------
  Script ini adalah aplikasi To-Do List sederhana dengan fitur-fitur:
  - Menambahkan tugas
